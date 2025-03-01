@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @yuvrajmehndiratta 
-- 👀 I’m interested in coding
+- I’m interested in coding
+- JG UNIVERSITY
+- BTECH IN CSE
 
 <!---
 yuvraj0530/yuvraj0530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
